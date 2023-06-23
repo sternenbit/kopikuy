@@ -1,0 +1,55 @@
+{
+    "kopi_panas": [
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Kopi Sepahit Kehidupan",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Mantap",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Chocolate-Caramel-Rum-Coffee_EXPS_THFM19_119520_E09_27_11b.jpg",
+            "nama": "Kopikir ini Latte",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_vietnam.jpg",
+            "nama": "Kopi Sianida",
+            "size": "200 Gram",
+            "harga": "175.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "kopi_dingin": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Mamamia",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Aren",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.happyfoodstube.com/wp-content/uploads/2020/03/irish-coffee-image.jpg",
+            "nama": "Irish Coffee",
+            "size": "150 Gram",
+            "harga": "160.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
